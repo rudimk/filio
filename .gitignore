@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# Hide auth credentials
+creds.py
+
 # C extensions
 *.so
 
