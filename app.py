@@ -7,6 +7,7 @@ app = Flask(__name__)
 app.debug = True
 app.config['BASIC_AUTH_USERNAME'] = username
 app.config['BASIC_AUTH_PASSWORD'] = password
+app.config['BASIC_AUTH_FORCE'] = True
 
 basic_auth = BasicAuth(app)
 
