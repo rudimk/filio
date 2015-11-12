@@ -15,6 +15,7 @@ I use [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) 
 Next, install dependencies:
 
 ```cd filio/```
+
 ```pip install -r requirements.txt```
 
 Good job, young padawan. The force of Python is strong in you. But a final test remains. Time to declare your true allegiance...*cough*, your HTTP credentials. Open up ```creds.py``` and add a username and password, like this:
@@ -23,6 +24,9 @@ Good job, young padawan. The force of Python is strong in you. But a final test 
 username='johndoe'
 password='myfancypassword123'
 ```
+You also need to create a directory called ```static``` where files will be uploaded to/downloaded from:
+
+```mkdir static```
 
 Good. Now, time to run the app:
 
