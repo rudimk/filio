@@ -41,9 +41,9 @@ Visit ```http://<YOUR_SERVER_IP_OR_DOMAIN:9500``` and log in with the credential
 
 ## Stuff I plan to add
 
-1. Better auth mechanisms.
-2. A nice web terminal. Who needs Xterm and iTerm2 and Cmder?
-3. Feel free to add something you want.
+1. [Better auth mechanisms.](https://github.com/rudimk/filio/issues/1)
+2. [A nice web terminal. Who needs Xterm and iTerm2 and Cmder?](https://github.com/rudimk/filio/issues/2)
+3. [Feel free to add something you want.](https://github.com/rudimk/filio/issues/new)
 
 ##License
 
